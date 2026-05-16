@@ -32,4 +32,23 @@ This repository is the public handbook: mission, active projects, structure, and
 
 The Nitric Green track builds on public work by 【entity_hint-{"display_string":"Arctura"}】 on an atmospheric plasma process for nitrogen fixation. The company was awarded a $1.15 million grant from the U.S. Department of Energy to advance green nitric acid technology【8034239683395325648†L32-L35】.
 
+
+## Getting Started
+
+### For Contributors
+1. Read `/commons/CODE_OF_CONDUCT.md` and `/commons/CONTRIBUTING.md`
+2. Clone the repo and pick an issue labeled `good first issue`
+3. Create a feature branch and open a PR with context and screenshots
+
+### For Community Members
+- Join the discussion: Discord / Matrix link
+- Read field notes: `/field-notes`
+- Attend open labs: Thursdays 18:00 UTC
+
+## License
+
+- **Code**: MIT License
+- **Hardware**: CERN-OHL-S v2
+- **Documentation, research, art**: CC BY-SA 4.0
+
 ## Repository Structure
